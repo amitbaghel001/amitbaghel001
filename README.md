@@ -16,7 +16,7 @@
 - 🎓 B.Tech Computer Science & Engineering @ Delhi Technological University (2024–2028), 8.44 CGPA
 - 🔬 Currently an **AI/ML Intern @ IIT Mandi** — self-supervised ECG representation learning (SimCLR, VICReg)
 - 🧠 Also an **AI Intern @ AIReadySchool** — building agentic AI curriculum, mentoring 100+ students
-- 💻 Interested in AI/ML, Backend Engineering, and Full-Stack Development
+- 💻 Interested in AI/ML, Applied Research, and Full-Stack Development
 - 📄 Looking for Software Engineering & AI internship opportunities
 
 ---
