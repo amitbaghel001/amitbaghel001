@@ -111,7 +111,7 @@ AI-powered educational chatbot using a Socratic "Learn by Thinking" approach wit
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00C2FF/amitbaghel001" alt="GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amitbaghel001&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
