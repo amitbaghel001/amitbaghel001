@@ -1,216 +1,535 @@
+<!-- ========================================================= -->
+
+<!--                    AMIT BAGHEL                            -->
+
+<!--              DEVELOPER PROFILE README                     -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-# Amit Baghel
+<br>
 
-**Software Engineer · AI/ML · Full-Stack Systems**
-
-I build software where **machine learning meets real-world systems** —
-from self-supervised representation learning to AI-native products and computer vision.
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=AMIT%20BAGHEL&fontSize=68&fontColor=58A6FF&fontAlignY=50&desc=SOFTWARE%20ENGINEER%20%2F%2F%20AI%20SYSTEMS&descSize=17&descColor=8B949E&descAlignY=72"/>
 
 <br>
 
-[LinkedIn](https://linkedin.com/in/amit0baghel) · [Email](mailto:amitbaghel9625@gmail.com) · [GitHub](https://github.com/amitbaghel001)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=800&color=8B949E&center=true&vCenter=true&width=760&lines=I+build+systems%2C+not+just+demos.;AI+%C3%97+Software+%C3%97+Real+World+Problems;Research+%E2%86%92+Engineering+%E2%86%92+Product;computer+vision+%7C+LLMs+%7C+machine+learning;always+building+something" />
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=building+AI+systems;shipping+full-stack+products;experimenting+with+LLMs+%26+vision;turning+ideas+into+working+software" />
+<a href="https://github.com/amitbaghel001">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/amit0baghel">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+&nbsp;
+<a href="mailto:amitbaghel9625@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=amitbaghel001&style=flat-square&color=58A6FF&label=PROFILE+SIGNALS"/>
 
 </div>
 
+<br>
+
 ---
 
-## `whoami`
+<div align="center">
 
 ```text
-Amit Baghel
-├── Computer Science @ Delhi Technological University
-├── AI/ML
-│   ├── Representation Learning
-│   ├── Computer Vision
-│   └── LLM / Agentic Systems
-├── Software Engineering
-│   ├── Full-Stack Applications
-│   ├── REST APIs
-│   └── Data / Automation
-└── Currently building → things that shouldn't need a manual
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   $ whoami                                                   │
+│                                                              │
+│   Amit Baghel                                                │
+│   ├── software engineer                                      │
+│   ├── AI / ML developer                                      │
+│   ├── full-stack builder                                     │
+│   ├── computer vision                                        │
+│   └── LLM / agentic systems                                  │
+│                                                              │
+│   $ location                                                 │
+│                                                              │
+│   B.Tech CSE @ Delhi Technological University                |
+|   2024 — 2028 · 8.56 CGPA                                    │
+│                                                              │
+│   $ current_mode                                             │
+│                                                              │
+│   BUILDING                                                   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
----
+</div>
 
-## What I Build
+<br>
 
-I like projects where the interesting part isn't just the model or the UI —
-it's the **system around it**.
+# `01 / THE BUILD LOG`
 
-I've worked across three layers:
+I like taking problems that look like **"someone should automate this"** and turning them into systems.
 
-**01 — Intelligence**
-Self-supervised learning, LLM orchestration, computer vision, embeddings, agentic workflows.
+My work has moved through three layers:
 
-**02 — Systems**
-REST APIs, authentication, databases, automation pipelines, dashboards, model integration.
+```text
+                  RESEARCH
+                     │
+                     ▼
+          ┌─────────────────────┐
+          │ representation      │
+          │ learning            │
+          │ computer vision     │
+          │ deep learning       │
+          └──────────┬──────────┘
+                     │
+                     ▼
+                 SYSTEMS
+                     │
+          ┌──────────┴──────────┐
+          │                     │
+       backend                AI layer
+       APIs                   LLMs
+       databases              agents
+       automation             orchestration
+          │                     │
+          └──────────┬──────────┘
+                     │
+                     ▼
+                  PRODUCT
+                     │
+          ┌──────────┴──────────┐
+          │                     │
+       Legal AI            Venture AI
+       NAVIS               AIReadySchool
+```
 
-**03 — Product**
-Taking those pieces and turning them into something people can actually use.
+Not every project needs AI.
 
-That has led to projects ranging from **ECG representation learning on 45K+ patients** to **AI-powered legal systems, venture intelligence platforms, and assistive computer vision**.
-
----
-
-## Selected Work
-
-### `01` — Legal Document Intelligence System
-
-> A full-stack legal case management system with AI at its core.
-
-**React · Node.js · Express · MongoDB · Gemini**
-
-Built the system around three problems:
-
-* **Understand** → Gemini-powered case summaries and IPC extraction
-* **Find** → hybrid similarity using 768-d embeddings + IPC/entity overlap
-* **Schedule** → priority-based allocation across 4 courtrooms × 12 daily slots
-
-**20 REST endpoints · JWT/RBAC · 80+ real cases**
-
-[→ repository](https://github.com/amitbaghel001/Legal-Document-Intelligence-System)
-
----
-
-### `02` — VentureFlow-AI
-
-> An AI-native venture intelligence system for early-stage investment research.
-
-**Streamlit · SQLite · LLM orchestration**
-
-Instead of building around one model, I built a configurable orchestration layer across:
-
-`GPT-4o` → `Gemini` → `Llama 3`
-
-The platform covers startup analysis, founder profiling, competitive mapping and investment memo generation — with structured JSON pipelines underneath and a dashboard on top.
-
-**4+ analytical modules · multi-model architecture · automated PDF reports**
-
-[→ repository](https://github.com/amitbaghel001/VentureFlow-AI)
+But when AI belongs in the system, I like understanding **what happens around the model** just as much as the model itself.
 
 ---
 
-### `03` — NAVIS
+# `02 / SYSTEMS I'VE SHIPPED`
 
-> Computer vision that turns the environment into something a user can understand.
+<div align="center">
 
-**YOLOv8 · MiDaS · OpenCV · Python**
+### `LEGAL DOCUMENT INTELLIGENCE`
 
-NAVIS combines object detection, depth estimation and offline voice interaction to provide real-time environmental awareness.
+**AI + Backend + Decision Systems**
 
-`80+ objects` · `~20 FPS` · `offline voice feedback`
+</div>
 
-[→ repository](https://github.com/amitbaghel001/nav)
+```text
+USER
+ │
+ ▼
+┌─────────────────────────────┐
+│       LEGAL PLATFORM        │
+├─────────────────────────────┤
+│                             │
+│  React                       │
+│      ↓                      │
+│  REST API                   │
+│      ↓                      │
+│  Node / Express             │
+│      ↓                      │
+│  MongoDB                    │
+│                             │
+│  ┌───────────┐              │
+│  │  Gemini   │              │
+│  └─────┬─────┘              │
+│        │                    │
+│   case analysis              │
+│   IPC extraction             │
+│   similarity                 │
+│                             │
+└─────────────────────────────┘
+```
+
+A legal case management system designed around actual workflows rather than an AI chatbot sitting on top of a database.
+
+**20 REST endpoints**
+**JWT + RBAC**
+**Gemini document analysis**
+**768-dimensional embeddings**
+**80+ real cases**
+**4 courtrooms × 12 daily slots**
+
+<a href="https://github.com/amitbaghel001/Legal-Document-Intelligence-System">
+<img src="https://img.shields.io/badge/%E2%86%92%20SOURCE-58A6FF?style=for-the-badge&labelColor=0D1117&color=161B22"/>
+</a>
+
+<br><br>
 
 ---
 
-## Engineering Experience
+<div align="center">
 
-### IIT Mandi
+### `VENTUREFLOW`
 
-**AI/ML Intern · Dec  2025 — Jul 2026**
+**Multi-Model AI Orchestration**
+
+</div>
+
+```text
+                    VENTUREFLOW
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+       GPT-4o          Gemini        Llama 3
+          │              │              │
+          └──────────────┼──────────────┘
+                         ▼
+               orchestration layer
+                         │
+          ┌──────────────┼──────────────┐
+          ▼              ▼              ▼
+       startup         founder        market
+       analysis        profiling      mapping
+                         │
+                         ▼
+                 investment memo
+```
+
+Instead of building around one model, I built a configurable multi-model layer for early-stage venture intelligence.
+
+**4+ analytical modules**
+**structured JSON pipelines**
+**multi-model orchestration**
+**interactive intelligence dashboard**
+**automated PDF memo generation**
+
+<a href="https://github.com/amitbaghel001/VentureFlow-AI">
+<img src="https://img.shields.io/badge/%E2%86%92%20SOURCE-58A6FF?style=for-the-badge&labelColor=0D1117&color=161B22"/>
+</a>
+
+<br><br>
+
+---
+
+<div align="center">
+
+### `NAVIS`
+
+**When Computer Vision Has To Leave The Notebook**
+
+</div>
+
+```text
+             CAMERA
+                │
+                ▼
+        ┌───────────────┐
+        │    YOLOv8     │──────► OBJECTS
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │     MiDaS     │──────► DEPTH
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ DECISION LAYER │
+        └───────┬───────┘
+                │
+                ▼
+        OFFLINE VOICE
+                │
+                ▼
+             USER
+```
+
+A multimodal assistive system combining **object detection + depth estimation + voice interaction** for real-time environmental awareness.
+
+`80+ objects` · `~20 FPS` · `offline voice` · `network-free`
+
+<a href="https://github.com/amitbaghel001/nav">
+<img src="https://img.shields.io/badge/%E2%86%92%20SOURCE-58A6FF?style=for-the-badge&labelColor=0D1117&color=161B22"/>
+</a>
+
+---
+
+# `03 / WHEN THE MODEL IS THE PROBLEM`
+
+### IIT Mandi · AI/ML
+
+```text
+45K+ PATIENTS
+      │
+      ▼
+┌─────────────────────┐
+│ ECG REPRESENTATION  │
+│      LEARNING       │
+└──────────┬──────────┘
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+  masking     augmentation
+     │           │
+     └─────┬─────┘
+           ▼
+   CNN + TRANSFORMER
+           │
+           ▼
+  CONTRASTIVE LEARNING
+           │
+           ▼
+     REPRESENTATION
+           │
+     ┌─────┴─────┐
+     ▼           ▼
+linear probe   fine-tune
+                   │
+                   ▼
+          ARRHYTHMIA CLASSIFICATION
+```
 
 Self-supervised ECG representation learning using PyTorch and CNN-Transformer architectures.
 
-Built reproducible GPU training pipelines, experimented with masking, attention and augmentation strategies, and evaluated representations through linear probing and fine-tuning.
+**45K+ patients**
+**50+ training experiments + ablations**
+**0.9436 AUROC**
+**0.7597 AUPRC**
+**0.7267 F1**
 
-**45K+ patients · 50+ experiments · 0.9436 AUROC**
+The interesting part wasn't simply training a model.
 
----
-
-### Igebra.ai
-
-**AI Intern · Jun 2026 — Jul 2026**
-
-Worked on AIReadySchool's LLM and agentic workflows.
-
-Built contextual learning interactions using knowledge structures, context engineering, tool use and personalized AI workflows. Also supported school pilots and stakeholder feedback.
+It was figuring out **what representation survives when labelled data is limited**.
 
 ---
 
-### Delhi Technological University
+# `04 / WHEN THE MODEL MEETS THE USER`
 
-**Technical Intern · Sep 2025 — Mar 2026**
+### Igebra.ai · AIReadySchool
 
-Built a browser-based 3D visualization system for engineering planning and Python automation pipelines for project data and reporting.
+The next problem was different.
 
-**~15% improvement in process efficiency**
+Not:
 
----
+> *Can an LLM answer?*
 
-## The Stack
+But:
+
+> *Can an AI system understand context, role, knowledge and intent well enough to actually help?*
 
 ```text
-Languages
-C++ · Python
-
-Frontend
-React · JavaScript · HTML · CSS · Tailwind · Material UI
-
-Backend
-Node.js · Express · Flask · REST APIs
-
-Data
-MongoDB · SQL · SQLite
-
-AI / ML
-PyTorch · OpenCV · YOLOv8 · LLMs
-
-Tools
-Git · GitHub · Streamlit · VS Code · Claude Code
+                 USER
+                   │
+                   ▼
+              CONTEXT
+                   │
+                   ▼
+              KNOWLEDGE
+                   │
+                   ▼
+             AI SKILLS
+                   │
+                   ▼
+              TOOL USE
+                   │
+                   ▼
+          PERSONALIZATION
+                   │
+                   ▼
+              RESPONSE
 ```
+
+Built and refined LLM workflows involving:
+
+`context engineering` · `knowledge structures` · `Socratic interactions` · `agentic workflows` · `tool use`
+
+Also supported **2 school pilot programs** and stakeholder feedback.
 
 ---
 
-## Numbers I Care About
+# `05 / THE ENGINEERING STACK`
 
 <div align="center">
 
-|          |                                                      |
-| -------- | ---------------------------------------------------- |
-| **45K+** | ECG patients used for representation pretraining     |
-| **50+**  | Training experiments & ablation studies              |
-| **80+**  | Object classes detected by NAVIS                     |
-| **20**   | REST APIs in Legal Document Intelligence             |
-| **4+**   | VentureFlow analytical modules                       |
-| **200+** | Students reached through AI & cybersecurity sessions |
+<img src="https://skillicons.dev/icons?i=cpp,python,react,js,html,css,tailwind,nodejs,express,mongodb,mysql,pytorch,opencv,git,github,vscode&perline=8"/>
+
+<br><br>
+
+```text
+C++       Python
+
+React     JavaScript     HTML5     CSS3
+Tailwind  Material UI
+
+Node.js   Express       Flask     REST APIs
+
+MongoDB   SQL
+
+PyTorch   OpenCV        YOLOv8    LLMs
+
+Git       GitHub        Streamlit Claude Code
+```
 
 </div>
 
 ---
 
-## Beyond the Code
+# `06 / SOME NUMBERS`
 
-I currently serve as **Technical Head at Paryavarnam, DTU**, where I lead technical initiatives and helped drive Pitchathon to **150+ participating teams**.
+<div align="center">
 
-I've also been part of the **Dell Aspire Program**, selected among 80 students nationwide, and have cleared the **NDA written examination twice**.
+<table>
+<tr>
+<td align="center">
+<h2>45K+</h2>
+ECG patients
+</td>
+
+<td align="center">
+<h2>50+</h2>
+ML experiments
+</td>
+
+<td align="center">
+<h2>80+</h2>
+vision classes
+</td>
+
+<td align="center">
+<h2>20</h2>
+REST endpoints
+</td>
+
+<td align="center">
+<h2>150+</h2>
+Pitchathon teams
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# `07 / OUTSIDE THE TERMINAL`
+
+```text
+PARYAVARNAM / DTU
+────────────────────────────────────────
+
+TECHNICAL HEAD
+
+→ led technical execution of Pitchathon
+→ 150+ participating teams
+→ planning · judging · execution
+
+
+AI & TECHNOLOGY EDUCATOR
+────────────────────────────────────────
+
+→ AI + cybersecurity sessions
+→ 200+ students
+
+
+DELL ASPIRE
+────────────────────────────────────────
+
+→ selected among 80 students nationwide
+
+
+NDA
+────────────────────────────────────────
+
+→ written examination cleared twice
+→ top 1% nationally
+```
+
+---
+
+# `08 / GITHUB // LIVE`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amitbaghel001&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitbaghel001&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitbaghel001&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="96%"/>
+
+</div>
+
+---
+
+# `09 / PROCESS`
+
+<div align="center">
+
+```text
+              ┌───────────┐
+              │   IDEA    │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │   BUILD   │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │   BREAK   │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │   LEARN   │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │   SHIP    │
+              └─────┬─────┘
+                    │
+                    └───────────────┐
+                                    │
+                                    ▼
+                                   IDEA
+```
+
+</div>
 
 ---
 
 <div align="center">
 
-### `git status`
+# `$ git status`
 
 ```text
 On branch main
 
-working tree clean
-commits still coming
+modified:
+  ├── ideas/
+  ├── experiments/
+  ├── ai-systems/
+  └── things-worth-building/
+
+nothing is ever really finished.
 ```
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitbaghel001&theme=github-compact&hide_border=true&area=true" />
+**BUILD → BREAK → LEARN → SHIP → REPEAT**
 
 <br>
 
-**Let's build something interesting.**
+<a href="https://github.com/amitbaghel001">GitHub</a>
+  ·   <a href="https://linkedin.com/in/amit0baghel">LinkedIn</a>
+  ·   <a href="mailto:amitbaghel9625@gmail.com">Email</a>
 
-[LinkedIn](https://linkedin.com/in/amit0baghel) · [GitHub](https://github.com/amitbaghel001) · [Email](mailto:amitbaghel9625@gmail.com)
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=110&section=footer"/>
 
 </div>
