@@ -1,36 +1,65 @@
+<div align="center">
+
 Amit Baghel
-Software Engineer · Applied AI/ML · Full-Stack Development
-I build practical software systems—from backend APIs and AI-powered workflows to computer vision applications. I enjoy making the pieces work together, not just getting a demo running.
-GitHub · LinkedIn · Email
-B.Tech CSE, Delhi Technological University · 2024–2028 · 8.56 CGPA
-Selected Projects
-Legal Document Intelligence System
-A full-stack legal workflow platform for document analysis, case similarity, and hearing scheduling.
+Software Engineer · Applied AI · Full-Stack Systems
+I build software that connects useful interfaces, reliable backends, and applied AI.
+GitHub  ·  LinkedIn  ·  Email
+</div>
+
+Selected Work
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Legal Document Intelligence
+A legal case workflow platform for document analysis, case matching, and hearing scheduling.
+20 APIs · 80+ cases
 React Node.js Express MongoDB Gemini
-- 20 REST API endpoints, JWT authentication, and role-based access control.
-- Gemini-powered document analysis and hybrid case matching across 80+ cases.
+View source →
+</td>
+<td width="50%" valign="top">
+
 VentureFlow-AI
-A venture research workspace that combines multiple models for startup analysis, founder profiling, market mapping, and investment memo generation.
+A multi-model workspace for startup analysis, founder profiling, market mapping, and investment memo generation.
+4+ analysis modules
 Streamlit SQLite GPT-4o Gemini Llama 3
-- Multi-model orchestration with structured analysis workflows.
-- 4+ analytical modules and PDF report generation.
-NAVIS — Assistive Navigation
-A computer vision system combining object detection, depth estimation, and offline voice feedback for environmental awareness.
+View source →
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+NAVIS
+Assistive computer vision combining object detection, depth estimation, and offline voice feedback.
+80+ object classes · ~20 FPS
 Python YOLOv8 MiDaS OpenCV
-- Detects 80+ object classes at approximately 20 FPS.
-- Designed for offline voice feedback and voice-command interaction.
+View source →
+</td>
+<td width="50%" valign="top">
+
+Research · ECG Representation Learning
+Self-supervised ECG representation learning using PyTorch and CNN-Transformer architectures at IIT Mandi.
+45K+ patients · 50+ experiments · 0.9436 AUROC
+PyTorch Representation Learning Contrastive Learning
+</td>
+</tr>
+</table>
+
+What I work with
+Engineering — C++ · Python · JavaScript · SQL · React · Node.js · Express · Flask · REST APIs
+AI / ML — PyTorch · OpenCV · YOLOv8 · LLM workflows · Model orchestration
+Data & tools — MongoDB · SQLite · Git · GitHub · Streamlit
 Experience
-AI/ML Intern · IIT Mandi · Dec 2025 – Jul 2026
-Worked on self-supervised ECG representation learning with PyTorch and CNN-Transformer architectures. Experiments used ECG data from 45K+ patients, with 50+ training experiments and up to 0.9436 AUROC after fine-tuning.
-AI Intern · Igebra.ai · Jun 2026 – Jul 2026
-Built LLM and agentic workflows for AIReadySchool, including context engineering, knowledge bases, tool use, and personalized learning interactions. Supported two pilot programs.
-Technical Intern · Delhi Technological University · Sep 2025 – Mar 2026
-Built a browser-based 3D engineering visualization tool and Python automation pipelines for project data and reporting.
-Toolkit
-Languages: C++ · Python · JavaScript · SQL
-Development: React · Node.js · Express · Flask · REST APIs · MongoDB
-AI/ML: PyTorch · OpenCV · YOLOv8 · LLMs · Model orchestration
-Tools: Git · GitHub · Streamlit · VS Code
-Beyond Code
-Technical Head, Paryavarnam — DTU. Led technical execution for Pitchathon with 150+ participating teams and delivered AI and cybersecurity sessions to 200+ students.
-<sub>Research → Build → Iterate → Ship</sub>
+IIT Mandi — AI/ML Intern · Dec 2025 – Jul 2026
+Self-supervised ECG representation learning, model training, and evaluation across 50+ experiments.
+Igebra.ai — AI Intern · Jun 2026 – Jul 2026
+LLM and agentic workflows for AIReadySchool, including context engineering, knowledge bases, tool use, and personalized learning.
+Delhi Technological University — Technical Intern · Sep 2025 – Mar 2026
+Browser-based 3D engineering visualization and Python automation for project data and reporting.
+A little more
+B.Tech Computer Science & Engineering, Delhi Technological University · 2024–2028 · 8.56 CGPA
+Technical Head, Paryavarnam (DTU) — Led technical execution for Pitchathon with 150+ participating teams; delivered AI and cybersecurity sessions to 200+ students.
+<div align="center">
+
+Research → Build → Iterate → Ship
+</div>
