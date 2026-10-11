@@ -1,92 +1,124 @@
  <div align="center">
 
-# Amit Baghel
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=27&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=amitbaghel001;Software+%2F%2F+AI+Systems;Building+ideas+into+software;Curiosity+drives+the+build." alt="Animated developer introduction" />
 
-### Software Engineer · AI/ML · Systems
+**Software Engineering × Applied AI**
 
-*I like building things that make complex technology useful.*
+Building, experimenting, breaking things, understanding why—and building them better.
 
-<br>
-
-<a href="https://github.com/amitbaghel001">GitHub</a> &nbsp; / &nbsp;
-<a href="https://linkedin.com/in/amit0baghel">LinkedIn</a> &nbsp; / &nbsp;
-<a href="mailto:amitbaghel9625@gmail.com">Contact</a>
+[GitHub](https://github.com/amitbaghel001)　·　[LinkedIn](https://linkedin.com/in/amit0baghel)　·　[Contact](mailto:amitbaghel9625@gmail.com)
 
 </div>
 
 ---
 
-### `01` — The way I think
+<div align="center">
 
-I’m a CSE student at **Delhi Technological University** interested in the space between software engineering and applied intelligence.
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SOFTWARE-161B22?style=flat-square&labelColor=161B22&color=2563EB" />
+<img src="https://img.shields.io/badge/BASED%20AT-DTU-161B22?style=flat-square&labelColor=161B22&color=2563EB" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-161B22?style=flat-square&labelColor=161B22&color=238636" />
 
-I enjoy understanding how things work under the hood — from APIs and databases to model architectures, inference pipelines, and AI agents. I care about writing software that is understandable, useful, and built to evolve.
+</div>
 
-### `02` — Currently exploring
+### `$ cat /about`
+
+I'm a CSE student at DTU who enjoys working where **software meets intelligence**.
+
+I like understanding what happens beneath the interface: how APIs connect systems, how models learn representations, how AI workflows use context, and how individual components become useful products.
+
+My pinned repositories showcase what I've built. This page is about what drives the building.
+
+### `$ ./explore --interests`
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**Systems**
+**01 — Systems engineering**
 
-- Backend architecture
-- API design
-- Data & databases
-- Performance
+`API design` · `Backend` · `Databases`
 
-</td>
-<td width="33%" valign="top">
-
-**Intelligence**
-
-- LLM orchestration
-- Agentic workflows
-- Representation learning
-- Computer vision
+Making components reliable, understandable, and maintainable.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**Craft**
+**02 — Applied intelligence**
 
-- Clean code
-- Experimentation
-- Debugging
-- Shipping products
+`LLMs` · `Agents` · `Computer vision`
+
+Connecting models to real workflows and practical problems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 — Machine learning**
+
+`PyTorch` · `Representation learning`
+
+Experimenting with how models learn, generalize, and perform.
+
+</td>
+<td width="50%" valign="top">
+
+**04 — Developer craft**
+
+`Debugging` · `Automation` · `Iteration`
+
+Learning by building, testing assumptions, and improving the result.
 
 </td>
 </tr>
 </table>
 
-### `03` — My toolkit
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,flask,pytorch,opencv,mongodb,mysql,git,github,vscode&perline=7" />
-</p>
+### `$ tech --compact`
 
 <div align="center">
 
-`C++` · `Python` · `JavaScript` · `SQL` · `PyTorch` · `LLMs`
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,flask,pytorch,opencv,mongodb,mysql,git,github,vscode&perline=7" />
 
 </div>
 
-### `04` — Outside the editor
+### `$ cat /currently`
 
-I lead technical initiatives at **Paryavarnam, DTU**, where technology meets environmental problem-solving. I've also worked with students on AI and cybersecurity, and enjoy collaborating on ideas that have real-world value.
+<details>
+<summary><b>What I'm exploring</b></summary>
 
-### `05` — A little context
+- Designing clean backend services and APIs.
+- Building useful LLM workflows and multi-model applications.
+- Understanding machine learning beyond simply calling a model.
+- Turning prototypes into software that people can actually use.
 
-<sub>Delhi Technological University · B.Tech CSE · 2024–2028 · 8.56 CGPA</sub>
+</details>
 
-<sub>Previously: AI/ML at IIT Mandi · AI at Igebra.ai · Technical work at DTU</sub>
+<details>
+<summary><b>What I value in engineering</b></summary>
+
+- Understand the problem before choosing the technology.
+- Keep abstractions useful, not decorative.
+- Measure results rather than relying on assumptions.
+- Prefer working software over impressive-looking demos.
+- Learn from failures and iterate deliberately.
+
+</details>
+
+<details>
+<summary><b>Outside the code</b></summary>
+
+I lead technical initiatives at **Paryavarnam, DTU**, including technical execution for Pitchathon, and have worked with students on AI and cybersecurity.
+
+</details>
 
 ---
 
 <div align="center">
 
-**Think deeply. Build simply. Keep learning.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=500&lines=think+%E2%86%92+build+%E2%86%92+test;find+the+bug;understand+the+system;ship+something+useful;repeat." alt="Build loop animation" />
 
-<a href="https://github.com/amitbaghel001">github.com/amitbaghel001</a>
+**Less noise. Better systems. Continuous learning.**
+
+<sub>DTU · B.Tech CSE · 2024–2028 · 8.56 CGPA</sub>
 
 </div>
