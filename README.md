@@ -2,108 +2,91 @@
 
 # Amit Baghel
 
-**Software Engineer · Applied AI · Full-Stack Systems**
+### Software Engineer · AI/ML · Systems
 
-Building software where backend engineering meets applied AI.
+*I like building things that make complex technology useful.*
 
-[GitHub](https://github.com/amitbaghel001) · [LinkedIn](https://linkedin.com/in/amit0baghel) · [Email](mailto:amitbaghel9625@gmail.com)
+<br>
+
+<a href="https://github.com/amitbaghel001">GitHub</a> &nbsp; / &nbsp;
+<a href="https://linkedin.com/in/amit0baghel">LinkedIn</a> &nbsp; / &nbsp;
+<a href="mailto:amitbaghel9625@gmail.com">Contact</a>
 
 </div>
 
 ---
 
-## Selected Work
+### `01` — The way I think
+
+I’m a CSE student at **Delhi Technological University** interested in the space between software engineering and applied intelligence.
+
+I enjoy understanding how things work under the hood — from APIs and databases to model architectures, inference pipelines, and AI agents. I care about writing software that is understandable, useful, and built to evolve.
+
+### `02` — Currently exploring
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Legal Intelligence
+**Systems**
 
-A legal workflow platform combining document understanding, case similarity, and hearing scheduling.
-
-**20 APIs · 80+ cases**
-
-`React` `Node.js` `MongoDB` `Gemini`
-
-[Explore project ↗](https://github.com/amitbaghel001/Legal-Document-Intelligence-System)
+- Backend architecture
+- API design
+- Data & databases
+- Performance
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### VentureFlow-AI
+**Intelligence**
 
-A multi-model workspace for startup research, competitive analysis, and investment memo generation.
-
-**4+ analytical modules**
-
-`Streamlit` `SQLite` `GPT-4o` `Gemini` `Llama 3`
-
-[Explore project ↗](https://github.com/amitbaghel001/VentureFlow-AI)
+- LLM orchestration
+- Agentic workflows
+- Representation learning
+- Computer vision
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### NAVIS
+**Craft**
 
-Assistive computer vision combining object detection, depth estimation, and offline voice feedback.
-
-**80+ object classes · ~20 FPS**
-
-`Python` `YOLOv8` `MiDaS` `OpenCV`
-
-[Explore project ↗](https://github.com/amitbaghel001/nav)
-
-</td>
-<td width="50%" valign="top">
-
-### ECG Representation Learning
-
-Self-supervised ECG learning with PyTorch and CNN-Transformer architectures, developed at IIT Mandi.
-
-**45K+ patients · 50+ experiments · 0.9436 AUROC**
-
-`PyTorch` `Deep Learning` `Representation Learning`
+- Clean code
+- Experimentation
+- Debugging
+- Shipping products
 
 </td>
 </tr>
 </table>
 
-## Engineering
+### `03` — My toolkit
 
-**Backend** — REST APIs, authentication, databases, automation
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,flask,pytorch,opencv,mongodb,mysql,git,github,vscode&perline=7" />
+</p>
 
-**AI / ML** — PyTorch, computer vision, LLM workflows, model orchestration
+<div align="center">
 
-**Stack** — C++, Python, JavaScript, React, Node.js, Express, Flask, MongoDB, SQL
+`C++` · `Python` · `JavaScript` · `SQL` · `PyTorch` · `LLMs`
 
-## Experience
+</div>
 
-- **IIT Mandi** — AI/ML Intern · *Dec 2025 – Jul 2026*  
-  Self-supervised ECG representation learning and model evaluation.
+### `04` — Outside the editor
 
-- **Igebra.ai** — AI Intern · *Jun 2026 – Jul 2026*  
-  LLM and agentic workflows for personalized AI-powered learning.
+I lead technical initiatives at **Paryavarnam, DTU**, where technology meets environmental problem-solving. I've also worked with students on AI and cybersecurity, and enjoy collaborating on ideas that have real-world value.
 
-- **Delhi Technological University** — Technical Intern · *Sep 2025 – Mar 2026*  
-  Engineering visualization and Python automation.
-
-## Beyond the Code
-
-**Technical Head · Paryavarnam, DTU**
-
-Led technical execution for Pitchathon with **150+ teams** and delivered AI and cybersecurity sessions to **200+ students**.
+### `05` — A little context
 
 <sub>Delhi Technological University · B.Tech CSE · 2024–2028 · 8.56 CGPA</sub>
+
+<sub>Previously: AI/ML at IIT Mandi · AI at Igebra.ai · Technical work at DTU</sub>
 
 ---
 
 <div align="center">
 
-**Research → Build → Iterate → Ship**
+**Think deeply. Build simply. Keep learning.**
 
-[GitHub](https://github.com/amitbaghel001) · [LinkedIn](https://linkedin.com/in/amit0baghel) · [Contact](mailto:amitbaghel9625@gmail.com)
+<a href="https://github.com/amitbaghel001">github.com/amitbaghel001</a>
 
 </div>
